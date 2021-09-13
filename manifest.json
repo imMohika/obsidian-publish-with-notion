@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-publish-with-notion",
+  "name": "Obsidian Publish With Notion",
+  "description": "Publish your notes to web using notion",
+  "author": "Mohi222",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
